@@ -1,0 +1,9 @@
+plotly
+numpy
+pandas
+yfinance
+seaborn
+flask
+tradingview-ta
+quandl
+jhtalib
