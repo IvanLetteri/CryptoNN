@@ -1,4 +1,5 @@
 sktime[all_extras]
+pywedge
 plotly==4.12.0
 numpy
 pandas
