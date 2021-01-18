@@ -3,6 +3,7 @@ pywedge
 plotly==4.12.0
 numpy
 pandas
+pandas_ta
 yfinance
 seaborn
 flask
