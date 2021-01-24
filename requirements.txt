@@ -12,3 +12,4 @@ quandl
 jhtalib
 vectorbt
 einops
+talib
