@@ -12,3 +12,5 @@ quandl
 jhtalib
 vectorbt
 einops
+trendet
+
